@@ -1,0 +1,37 @@
+#about{
+
+	height: 400px;
+	text-align: center;
+	margin: 0 auto;
+	width: 550px;
+	font-size: 120%;
+}
+.cta{
+	width: 190px;
+	height: 55px;
+	margin: 20px;
+	background-color:#253342 ;
+	font-size: 120%;
+	color: white;
+	box-shadow: 0px 5px #999;
+	border-radius: 30px;
+	border: none;
+	cursor: pointer;
+
+}
+.cta:active{
+	box-shadow: 0px 0px #999;
+	transform: translatey(5px);
+	transition-duration: 0.1s;
+
+}
+.about-p{
+	padding-top: 10px;
+	line-height: 1.9;
+	font-size: 25px;
+}
+#tutorials{
+	background-color: #253342;
+	text-align: center;
+	color: white;
+}

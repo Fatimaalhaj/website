@@ -1,0 +1,31 @@
+#menu{
+	height: 60px;
+	width: 100%;
+	background-color: #253342;
+	/*position: fixed;*/
+}
+#logo{
+	margin: 0 auto;
+	float: left;
+	
+	color: white;
+	padding-left: 10px;
+	line-height: 4 0px;
+
+	
+}
+.menu-all .menu-item{
+	list-style-type: none;
+	
+	height: 60px;
+}
+.menu-item{
+	float:right;
+	list-style-type: none;
+
+	padding: 10px;
+	line-height: 40px;
+}
+.menu-all .menu-item:hover{
+	background-color: #9e4040;
+}

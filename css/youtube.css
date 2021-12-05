@@ -1,0 +1,14 @@
+.youtube{
+	text-align: center;
+	padding: 50px 0px;
+	
+	
+}
+.vid{
+	width: 100%;
+	min-height: 350px;
+}
+
+.youtube h1{
+	font-size: 2em;
+}

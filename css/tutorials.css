@@ -1,0 +1,47 @@
+#tutorials h1{
+color: white;
+text-align: center;
+ font-size:48px;
+padding-top: 50px;}
+
+.col-3{
+	
+	width: 32%;
+	float: left;
+	border: 1px solid #ccc;
+	margin-right: 1%;
+	border-radius: 15px;
+	padding: 15px;
+	
+}
+.row{
+	
+	
+	margin: 50px;
+}
+.col-left{
+	margin-left: 1%;
+}
+.tut-header{
+	font-size: 25px;
+	padding-bottom: 10px;
+	font-weight: bold;
+}
+.col-3 img{
+	width: 300px;
+	height: 160px;
+	border: 1px solid #ccc;
+	border-radius: 15px;
+	width: 100%;
+	max-width: 260px;
+	box-shadow: 0px 5px 5px black;
+	
+
+}
+.cta.tuts{
+	
+	background-color:white;
+	color: #253342;
+	
+
+}
